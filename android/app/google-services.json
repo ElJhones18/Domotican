@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "803374326045",
+    "firebase_url": "https://domotican-fbb1a-default-rtdb.firebaseio.com",
+    "project_id": "domotican-fbb1a",
+    "storage_bucket": "domotican-fbb1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803374326045:android:61caba43a90e1a46a081f4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMA7HKNcFI6lvpm20LQHasDpGp1dmdl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
